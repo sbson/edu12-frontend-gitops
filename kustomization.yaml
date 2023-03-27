@@ -6,4 +6,4 @@ resources:
 - route.yaml
 images:
 - name: ghcr.io/sbson/edu12-frontend
-  newTag: "20230326152802"
+  newTag: "20230327170948"
